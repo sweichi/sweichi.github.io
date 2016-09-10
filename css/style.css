@@ -1,0 +1,58 @@
+@font-face {
+    font-family: NotoSansTC-Regular;
+    src: url(../fonts/NotoSansTC-Regular.otf);
+}
+
+* {
+    font-size: 18px;
+    letter-spacing: 2.5px;
+    font-family: NotoSansTC-Regular, sans-serif, Arial;
+}
+
+
+/*header設定*/
+
+h1 {
+    font-size: 2em;
+    color: #fc8d1f;
+}
+
+p {
+    font-size: 1em;
+    color: blueviolet;
+}
+
+
+/*nav設定*/
+
+nav ul>li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 15px;
+}
+
+nav a {
+    text-decoration: none;
+    color: darkgray;
+}
+
+
+/*文章設定*/
+
+h2 {
+    font-size: 1.5em;
+    color: coral;
+}
+
+#top {
+    background-color: #81d5d8;
+}
+
+.post {
+    background-color: cornflowerblue;
+    font-size: 1.5em;
+}
+
+.post1 {
+    background-color: yellow;
+}
