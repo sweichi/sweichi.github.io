@@ -5,3 +5,16 @@ img {
 }
 
 
+
+.navbar-brand {
+    font-size: 14px;
+}
+
+.jumbotron {
+    
+    height: 600px;
+}
+
+h1{
+    color:darkcyan;
+}
