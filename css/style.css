@@ -1,7 +1,7 @@
-.help{
-    background-image:url(images/bg01.jpg)
+
+img {
+    width: 100%;
+    margin: auto 0;
 }
 
-.container panel panel-primary{
-    width: =80%
-} 
+
